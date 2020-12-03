@@ -1,3 +1,9 @@
 out/
 
 solution
+
+.gitignore
+*.cabal
+Main.hs
+Setup.hs
+dist-newstyle/
